@@ -1,4 +1,3 @@
-Project Name : springboot-swagger-test
 
 mvnw spring-boot:run
 
